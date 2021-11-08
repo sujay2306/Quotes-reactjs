@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import twitterIcon from '../twitter.svg';
-import tumblrIcon from '../tumblr.svg';
+
 
 const Quotes = () => {
   const [quote, setQuote] = useState('');
@@ -37,7 +36,7 @@ const Quotes = () => {
       <div id="buttons">
         <div className="social-media">
           <a href="#" id="twet-quote">
-            <span><img src={twitterIcon} alt="" /></span>
+            
           </a>
        
         </div>

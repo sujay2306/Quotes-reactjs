@@ -41,13 +41,13 @@ body {
   display: flex;
 }
 
-.social-media > a {
+/* .social-media > a {
   margin-right: .5rem;
-  background: #0059ff;
+
   padding: .3rem .5rem;
   cursor: pointer;
   border-radius: 3px;
-}
+} */
 
 .social-media > a:hover {
   opacity: .9;
