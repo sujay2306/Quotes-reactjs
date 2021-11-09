@@ -5,7 +5,7 @@ To install the package you need to tyiping
 To run the app
 ### `npm start`
 
-demo : 
+Demo : 
 ### `sandyy.netlify.app`
 
 ![contact form](./randomquote.png)
