@@ -1,5 +1,5 @@
 
-To install the package you need to tyiping
+To install the package you need to type
 ### `npm install`
 
 To run the app
